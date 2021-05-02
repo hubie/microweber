@@ -718,10 +718,10 @@
                                                             <div class="form-group">
                                                                 <div class="custom-control custom-checkbox">
                                                                     <input type="checkbox" class="custom-control-input" id="subscribe_for_update_notification" name="subscribe_for_update_notification" value="1" tabindex="13" checked="">
-                                                                    <label class="custom-control-label" for="subscribe_for_update_notification"><?php _e('Update nofitication'); ?></label>
+                                                                    <label class="custom-control-label" for="subscribe_for_update_notification"><?php _e('Update notification'); ?></label>
                                                                 </div>
 
-                                                                <small class="text-muted d-block mb-2"><?php _e('If checked, you will get update notifiactions when new version is avaiable.'); ?></small>
+                                                                <small class="text-muted d-block mb-2"><?php _e('If checked, you will get update notifications when a new version is avaiable.'); ?></small>
                                                             </div>
                                                         </div>
                                                     </div>
