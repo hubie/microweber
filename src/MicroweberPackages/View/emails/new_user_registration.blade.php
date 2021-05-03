@@ -2,7 +2,7 @@
 
 <br />
 
-<p>This message is to confirm that your user registration.</p>
+<p>This message is to confirm that a new account has been registered for you.  Please verify your email address by clicking the link below.</p>
 
 <br />
 <p>Verify email: </p>
